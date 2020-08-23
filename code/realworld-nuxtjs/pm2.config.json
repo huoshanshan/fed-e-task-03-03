@@ -1,0 +1,5 @@
+{
+  "app": "realworld",
+  "script": "npm",
+  "args": "start"
+}
